@@ -1,4 +1,9 @@
 <?php
+/**
+ * 使用前请使用composer安装workerman
+ *
+ * "require": {"workerman/workerman": "*"}
+ */
 return [
     'wm.http' => [
         'host'      => '127.0.0.1',

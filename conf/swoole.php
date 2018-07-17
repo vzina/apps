@@ -1,4 +1,7 @@
 <?php
+/**
+ * 使用前请安装swoole扩展
+ */
 return [
     'sw.http' => [
         'host' => '127.0.0.1',
